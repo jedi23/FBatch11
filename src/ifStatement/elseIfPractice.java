@@ -1,6 +1,6 @@
 package ifStatement;
 
-public class elseIfPractice {
+public class  elseIfPractice {
     public static void main(String[] args) {
         // pick a number between 0-15
         // for each range of 0-5, 6-10, ... >> your number is in the range of 0 to 5 etc...
